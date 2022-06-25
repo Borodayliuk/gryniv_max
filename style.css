@@ -1,0 +1,44 @@
+
+header {
+    
+    background-image: url("https://naukozavr.info/wp-content/uploads/2020/02/Symvoly-Ukrayiny.jpg");
+    height: 100px;
+    
+}
+header h1{
+    color: #170097;
+    text-align: center;
+
+    
+}
+header h1:hover{
+    color: gold;
+    transition: linear 1s;
+}
+
+main{
+    background-color: #cf30bd57;
+    
+}
+
+
+.img {
+    margin: 30px;
+    opacity: 0.8;
+}
+.img:hover{
+    opacity: 1;
+    border: 3px solid skyblue;
+    margin-bottom: 50px;
+}
+.name {
+    color: #cf9230;
+}
+.text {
+    font-size: 19px;
+    color: rgba(70, 16, 16, 0.699);
+    border: dashed 4px #306dcf;
+}
+.text:hover{
+    border: dashed 4px #30CF42;
+}
